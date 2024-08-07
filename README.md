@@ -7,7 +7,7 @@
 <h5 align="center">
   <a href="https://www.linkedin.com/in/diyorbekhamidov/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.instagram.com/diyorbek.911/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="https://t.me/diyorbek_jdk/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://t.me/diyor_jdk/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/diyorbek_jdk">t.me/diyorbek_jdk</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/diyor_jdk">t.me/diyorbek_jdk</a>
   <br>
   📫 How to reach me: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
 </p>
