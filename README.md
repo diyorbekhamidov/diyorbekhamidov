@@ -11,8 +11,9 @@
 </h5>
 
 <p align="center">
-  Hello, My full name is Diyorbek Khamidov, I am Android developer from Fergana, Uzbekistan 🇺🇿
+  Hello, My full name is Diyorbek Khamidov 👨‍💻
   <br>
+  I am Android developer from Fergana, Uzbekistan 🇺🇿
   <br>
   💻 I love writing code and learn anythings about it
   <br>
