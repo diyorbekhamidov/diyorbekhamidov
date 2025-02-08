@@ -11,14 +11,14 @@
 </h5>
 
 <p align="center">
-  Hello, I'm Diyorbek, Mobile developer from Uzbekistan
+  Hello, My full name is Diyorbek Khamidov, I am Android developer from Fergana, Uzbekistan 🇺🇿
   <br>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/diyor_jdk">t.me/diyorbek_jdk</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/diyor_jdk">t.me/diyor_jdk</a>
   <br>
-  📫 How to reach me: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
+  📫 How to connect: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
 </p>
 
 
