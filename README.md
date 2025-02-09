@@ -13,7 +13,7 @@
 <p align="center">
   Hello, My full name is Diyorbek Khamidov 👨‍💻
   <br>
-  I am Android developer from Fergana, Uzbekistan 🇺🇿
+  I am Android developer from Uzbekistan 🇺🇿
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -24,20 +24,13 @@
 
 
 <br>
+   <div align="center">
+  <a href="https://github.com/diyorbekhamidov/diyorbekhamidov/blob/main/README.md">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekhamidov&theme=radical&card_width=495" alt="Top Langs">
+  </a>
+</div>
 
-  <div align="center"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=diyorbekhamidov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-
-  <br>
-
-   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekhamidov&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+  
 
   
 
