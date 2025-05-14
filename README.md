@@ -16,8 +16,6 @@
   <br>
   I am an Android developer from Uzbekistan 🇺🇿
   <br>
-  💻 I love writing code and learning anything about it
-  <br>
   ✍️ My blog, where I share personal experiences <a href="https://t.me/diyor_jdk">t.me/diyor_jdk</a>
   <br>
   📫 How to connect: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
