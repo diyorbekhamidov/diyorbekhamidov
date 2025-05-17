@@ -19,5 +19,5 @@
   ✍️ My blog, I share personal experiences 
 <a href="https://t.me/diyor_jdk">t.me/diyor_jdk</a>
   <br>
-  📫 Connect: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
+  📫 Connect with me: <a href="mailto: diyordev13@gmail.com">diyordev13@gmail.com</a>
 </p>
