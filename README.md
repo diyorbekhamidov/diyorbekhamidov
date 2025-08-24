@@ -13,8 +13,9 @@
 <!-- Personal Info -->
 <p align="center">
   Hello, My name is Diyorbek Khamidov 👨‍💻
+
   <br>
-  I am an Android developer from Uzbekistan 🇺🇿
+  I'm an Android developer from  Uzbekistan 🇺🇿
   <br>
   ✍️ My blog, I share personal experiences 
 <a href="https://t.me/diyor_jdk">t.me/diyor_jdk</a>
